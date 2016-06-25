@@ -4,25 +4,14 @@
 	<link rel="stylesheet" type="text/css" href="Style.css">
 </head>
 <body>
-	<header id="main-header">
-		
-		<a id="logo-header" href="#">
-			<span class="site-name">PLANES GLOBALES Y PROGRAMAS ANALITICOS</span>
-		</a> <!-- / #logo-header -->
- 
-		<nav>
-			<ul>
-				<li><a href="pagina_ayuda.html">Ayuda</a></li>
-				<li><a href="#">Contactanos</a></li>
-			</ul>
-		</nav><!-- / nav -->
- 
-	</header><!-- / #main-header -->
+	<header><center><h2 id="titulo_Principal">Sistema de Planes Globales</h2></center>
 	<hr></hr>
+	</header>
+	
 	<aside id="menu">
     <div id="titulo"><a id="titulo" href="index.php">Inicio</a></div>
-    <div id="titulo"><a id="titulo" href="Plan_Global_Publico.php">Planes Globales</a></div>
-    <div id="titulo"><a id="titulo" href="Programa_Analitico_Publico.php">Programas Analiticos</a></div>
+    <div id="titulo"><a id="titulo" href="Plan_Global_Publico.php">Plan Global</a></div>
+    <div id="titulo"><a id="titulo" href="Plan_Analitico_Publico.php">Programas Analitico</a></div>
     <div id="titulo"><a id="titulo" href="Manual_de_Usuario.php">Manual de Usuario</a></div>
     
     <form method="post" action="redireccion.php">
@@ -49,7 +38,7 @@
 	</aside>
 
 <article id="cuerpo">
-    <center><img src="imagenes/slider1.JPG" width="100%" height="70%" ></center>
+    <center><img src="imagen.JPG"></center>
 
 </article>
 
